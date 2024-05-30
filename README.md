@@ -45,6 +45,7 @@ onde as imagens das cenas foram sicronizada com o audio.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+https://vimeo.com/951756174
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
