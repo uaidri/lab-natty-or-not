@@ -23,13 +23,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar um video que fale de Inteligencia Artificial com Inteligencia Artificial.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+https://www.perplexity.ai
+https://noisee.ai/
+discord
+https://ttsmaker.com/
+https://www.capcut.com/
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+1- foi pedido para a ferramenta Perplexity gerar um roteio
+ sobre Inteligencia artificial e seus impactos na sociedade.
+2- O texto deste roteiro foi passado para a feramenta ttsmaker para gerar o audio do texto.
+3- O texto convertido em voz foi passado para a ferramenta noisee.ai que usando o discord gerou um video
+onde as imagens das cenas foram sicronizada com o audio.
+4. esse video gerado foi importado para o capcut onde foram geradas as legendas e o video final.
+
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
